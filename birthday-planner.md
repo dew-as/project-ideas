@@ -1,10 +1,10 @@
 # Project Idea: Online Birthday/Anniversary Planner
 
-Problem Statement:
+Problem Statement:-
 - I forget birthday
 - One stop Birthday Planner
 
-Features: 
+Features:-
 - facebook Integration/ Social media
 - Reminders 
 - Birthday Planning suggestions
